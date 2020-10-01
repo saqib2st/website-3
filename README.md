@@ -11,6 +11,7 @@ yarn
 yarn serve
 ```
 
-The website is automatically deployed using [Vercel](https://vercel.com).
+The Website is Automatically Deployed using [Vercel](https://vercel.com).
 
-Search is powered by [Algolia DocSearch](https://docsearch.algolia.com/).
+Search is Powered by: [Algolia DocSearch](https://docsearch.algolia.com/).
+Contributor's Welcome 😍.
